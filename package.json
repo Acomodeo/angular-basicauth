@@ -1,6 +1,6 @@
 {
   "name": "@acomodeo/angular-basicauth",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "private": false,
   "description": "Simple basic authentication service for AngularJs",
   "main": "angular-basicauth.js",
